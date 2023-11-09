@@ -1,0 +1,62 @@
+.cardContainer {
+    margin-bottom: 15px;
+  }
+  .card {
+    margin: 0 auto;
+  }
+
+  /* Navigation bar */
+
+/* General */
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url();
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+  }
+/* 
+  #project1{
+  
+    
+  } */
+
+  /* .card-img-top{
+    
+    src:url("assets/images/02-run-buddy.jpg");
+  } */
+
+  .card{
+    opacity: 0.8;
+  }
+
+  .card:hover{
+    opacity: 1;
+  }
+
+  img{
+    background-image: url("");
+  }
+
+  .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+hr{
+  margin-left: 50px;
+  margin-right: 50px;
+}
