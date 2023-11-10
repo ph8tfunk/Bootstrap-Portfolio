@@ -11,8 +11,8 @@
 .customNav {
     position: fixed;
     width: 100%;
-    background: url();
-    background-color: transparent !important;
+    /* background: url(); */
+    background-color: pink !important;
     background-size: cover;
     z-index: 10;
   }
@@ -22,21 +22,11 @@
   }
   .navbar-brand img {
     padding-right: 15px;
-    width: 65px;
+    width: 80px;
   }
   .nav-item {
     margin: 0px 15px;
   }
-/* 
-  #project1{
-  
-    
-  } */
-
-  /* .card-img-top{
-    
-    src:url("assets/images/02-run-buddy.jpg");
-  } */
 
   .card{
     opacity: 0.8;
@@ -44,6 +34,7 @@
 
   .card:hover{
     opacity: 1;
+    cursor: pointer;
   }
 
   img{
@@ -59,4 +50,9 @@
 hr{
   margin-left: 50px;
   margin-right: 50px;
+}
+
+h1{
+  text-align: center;
+  padding: 15px;
 }
