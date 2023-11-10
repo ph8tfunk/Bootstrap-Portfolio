@@ -7,8 +7,9 @@ This is the portfolio project to showcase differnt projects and hobbies, recreat
 
 Screenshot
 
+<img src="assets/images/avatar.webp">
 
-Portfolio Project
+<a href="https://ph8tfunk.github.io/Bootstrap-Portfolio/">Portfolio Project</a>
 
 Installation
 N/A
